@@ -1,0 +1,12 @@
+PRIVATE_KEY = 'a71630275ec97df32d51698952a768c2196d716e15403f27ff41f0305a3d5b9b';
+RPC_URL = 'https://rpc.apothem.network/';
+WS_URL = 'wss://ws.apothem.network/';
+
+
+Ownaddress = owner,
+receiver = spender
+
+
+rec = 0xd270b44ccf6276dd223b842df9a1c6e5d66d3e1b
+
+pushed.
